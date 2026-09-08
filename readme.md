@@ -43,6 +43,17 @@ The models were evaluated using:
 - ROC-AUC
 - Confusion Matrix
 
+ ## 📊 Model Performance
+
+| Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
+|-------|----------|------------|--------|----------|---------|
+| Logistic Regression | 95.85% | 26.55% | 100% | 41.96% | 99.33% |
+| Decision Tree | 99.95% | 96.77% | 100% | 98.36% | 99.97% |
+| Random Forest | 99.25% | 100% | 50% | 66.67% | 100% |
+| KNN | 98.70% | 75% | 20% | 31.58% | 84.14% |
+
+The tuned Decision Tree classifier achieved the strongest overall performance on the evaluation data and was selected as the final model.
+
 ## 🏆 Final Model
 
 The tuned Decision Tree classifier was selected as the final model based on its performance on the evaluation data.
