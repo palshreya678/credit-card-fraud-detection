@@ -1,4 +1,7 @@
-﻿# 💳 Credit Card Fraud Detection using Machine Learning
+﻿## 🚀 Live Demo
+👉 [Try FraudGuard AI](https://credit-card-fraud-detection-27vu756uc5tuygmbxkvraf.streamlit.app)
+
+# 💳 Credit Card Fraud Detection using Machine Learning
 
 ## 📌 Project Overview
 
